@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center">Hi <img width="35" src="https://github.com/Lotas-Dan/Lotas-Dan/blob/main/waving.gif">, I'm
         Lotas-Dan</h1>
-    <h4 align="center">Just a programmer who is looking for new acquaintances</h4>
+    <h4 align="center">Just a programmer</h4>
 </div>
 
 <div align="center">
